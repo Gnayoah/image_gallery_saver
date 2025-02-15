@@ -24,6 +24,7 @@ import java.io.File
 import java.io.FileInputStream
 import java.io.IOException
 import android.text.TextUtils
+import com.example.imagegallerysaver.SaveResultModel
 import android.webkit.MimeTypeMap
 import java.io.OutputStream
 
